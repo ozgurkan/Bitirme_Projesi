@@ -1,0 +1,14 @@
+Detectron2-EfficientDet DATASET Linki
+https://drive.google.com/drive/folders/1ZaMgJ8ERE6IvrKT0tlXb0-LpqxYnJ7J7?usp=sharing
+--------------------------------------------------------------------------------------
+MASK-RCNN DATASET Linki
+https://drive.google.com/drive/folders/1s-7ZlDRb4_eTFyY4XVyzS7tAAmC9HZyz?usp=sharing
+--------------------------------------------------------------------------------------
+YOLOv5 DATASET Linki
+https://drive.google.com/drive/folders/1vWbtPoaFCQob7uSYbyhPqNUizsWASvEZ?usp=sharing
+--------------------------------------------------------------------------------------
+MobileNet SSDv2 DATASET Linki
+https://drive.google.com/drive/folders/1-6PqCJTb5zx91OdzyGWwxl1c8LOD8zym?usp=sharing
+
+
+MobileNetSSDv2 ve EfficientDet modelleri Hamza Osman İLHAN Hocaya elden iletilmiştir.

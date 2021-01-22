@@ -1,0 +1,2 @@
+Proje Google Colaboratory kullanılarak gerçekleştirilmiştir. Localde herhangi bir yazılım
+yüklemeye gerek yoktur.

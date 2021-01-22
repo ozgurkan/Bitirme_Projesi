@@ -1,0 +1,12 @@
+YOLOv5 Ağırlık Dosyaları
+https://drive.google.com/drive/folders/1-XDgN2UFr83oJExswwXfvdTZWQg5ir_0?usp=sharing
+---------------------------------------------------------------------------------------
+MaskRCNN Ağırlık Dosyaları
+https://drive.google.com/drive/folders/1BdWGL4UCIPUinu5m-bf9xKG_IDeq435X?usp=sharing
+https://drive.google.com/drive/folders/10tvs0pJU6pueDMm_AnO1yPtaofTJNz0x?usp=sharing
+https://drive.google.com/drive/folders/1J811P58LjFSXr8m2heRIlvO0BQ5zImLx?usp=sharing
+---------------------------------------------------------------------------------------
+Detectron2 Ağırlık Dosyaları
+https://drive.google.com/drive/folders/1Q_PUhEcfLlwn3XGjUZ4rit28pUamyVLc?usp=sharing
+https://drive.google.com/drive/folders/1LzHZuP-kQaiE8nMqGMJjGUQtRq1VhzyK?usp=sharing
+https://drive.google.com/drive/folders/1HqBOayoa5P3L4W4pqp5SZXot8K1Jgw5z?usp=sharing

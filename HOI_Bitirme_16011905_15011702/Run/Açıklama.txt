@@ -1,0 +1,6 @@
+Proje deneysel bir çalışmadır.Projeyi çalıştırmak için;
+1-)Google Drive hesabı oluşturun
+2-)Kaynak kodda belirtilen .ipynb uzantılı dosyaları Google drive'a kaydedin.
+3-)Kaydettiğiniz dosyaların üzerine sağ tıklayıp birlikte aç seçeneğiyle Google Colaboratory
+ile dosyaları açınız.
+4-)Son olarak Colab dosyalarındaki hücreleri çalıştırıp modelleri çalıştırabilirsiniz.
