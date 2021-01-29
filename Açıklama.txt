@@ -1,0 +1,3 @@
+Aşağıdaki dosyaları google drive üzerine yükleyiniz.
+Daha sonra dosyaların üzerine sağ tık ile birlikte aç seçeneğini seçip,
+uygulama olarak Google Colaboratory ile dosyaları açıp kodları çalıştırabilirsiniz.
